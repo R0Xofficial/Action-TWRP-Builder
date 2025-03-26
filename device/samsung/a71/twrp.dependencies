@@ -1,2 +1,7 @@
 [
+  {
+    "repository": "R0Xofficial/TWRP",
+    "branch": "main",
+    "target_path": "device/samsung/a71"
+  }
 ]
