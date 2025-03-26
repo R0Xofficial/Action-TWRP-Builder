@@ -18,7 +18,7 @@ on:
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'android-12.1'
+        default: 'a71naxx-user-11-RP1A.200720.012-A715FXXSBDXB1-release-keys'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
